@@ -1,8 +1,8 @@
-#datatype measurement,field,double,dateTime:RFC3339
-m,variable,valor,time
-ema_tuquerres,temperatura,64.23,2022-01-01T00:00:00Z
-ema_tuquerres,humedad,63.23,2022-01-01T00:01:00Z
-ema_tuquerres,temperatura,64.23,2022-01-01T00:01:00Z
-ema_tuquerres,humedad,64.23,2022-01-01T00:02:00Z
-ema_tuquerres,temperatura,64.23,2022-01-01T00:02:00Z
-ema_tuquerres,humedad,65.23,2022-01-01T00:03:00Z
+#datatype measurement,tag,double,dateTime:RFC3339
+m,var,val,time
+ema_pasto, temp,64.23,2022-01-01T00:03:00-05:00
+ema_pasto, host2,72.01,2022-01-01T01:00:00-05:00
+ema_pasto, temp,62.61,2022-01-01T00:01:10-05:00
+ema_pasto, host2,72.98,2022-01-01T00:00:10-05:00
+ema_pasto, temp,63.40,2022-01-01T00:02:20-05:00
+ema_pasto, host2,73.77,2022-01-01T00:00:20-05:00
