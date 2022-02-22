@@ -1,4 +1,4 @@
 #datatype measurement,tag,double,dateTime:RFC3339
 m,var,val,time
-ema_pasto,vv,1540.0,2022-01-08T00:00:00Z
-ema_pasto,vv,1690.0,2022-01-10T00:00:01Z
+ema_pasto,rad,1540.0,2022-01-08T00:00:00Z
+ema_pasto,rad,1690.0,2022-01-10T12:00:00Z
