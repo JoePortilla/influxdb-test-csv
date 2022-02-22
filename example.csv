@@ -1,8 +1,8 @@
 #datatype measurement,field,double,dateTime:RFC3339
 m,variable,valor,time
-ema_tuquerres,temperatura,94.23,2022-01-01T05:10:00Z
-ema_tuquerres,humedad,13.23,2022-01-01T00:01:00Z
-ema_tuquerres,temperatura,74.23,2022-01-01T06:01:00Z
-ema_tuquerres,humedad,4.23,2022-01-01T00:20:00Z
-ema_tuquerres,temperatura,54.23,2022-01-01T07:02:00Z
-ema_tuquerres,humedad,15.23,2022-01-01T00:30:00Z
+ema_tuquerres,temperatura,64.23,2022-01-01T12:00:00Z
+ema_tuquerres,humedad,63.23,2022-01-01T00:01:00Z
+ema_tuquerres,temperatura,64.23,2022-01-01T10:01:00Z
+ema_tuquerres,humedad,64.23,2022-01-01T00:02:00Z
+ema_tuquerres,temperatura,64.23,2022-01-01T09:02:00Z
+ema_tuquerres,humedad,65.23,2022-01-01T00:03:00Z
